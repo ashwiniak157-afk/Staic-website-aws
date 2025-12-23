@@ -13,4 +13,4 @@ Created to showcase my skills and projects to recruiters.
 ## Deployment
 Hosted on AWS EC2 using Nginx.
 ## Screenshot
-![Website Preview](screenshot\home.png)
+![Website Preview](screenshot/home.png)
